@@ -1,0 +1,46 @@
+{
+  "application": {
+    "type": "android",
+    "date": "01-01-2021",
+    "state": {
+      "venit": {
+        "populatie": 57.44,
+        "agentiEconomici": 222.64,
+        "sume": {
+          "tva": 83.67,
+          "impozitVenit": 532.52
+        },
+        "subventii": 5.77,
+        "uniuneaEuropeana": 0.49,
+        "excedentUtilizat": 146.81,
+        "alteVenituri": 54.8
+      },
+      "cheltuieliFunctionale":{
+        "autoritatiPublice": 36.33,
+        "tranzactiiPrivindDatoriaPublica": 9.99,
+        "invatamant": 216.62,
+        "sanatate": 78.3,
+        "culturaRecreereReligie": 160.53,
+        "asigurariSiAsistentaSociala": 154.89,
+        "locuinteSiDezvoltarePublica": 48.6,
+        "protectiaMediului": 190.22,
+        "transporturi": 7.1,
+        "alteCheltuieli": 107.5
+      },
+      "cheltuieliEconomice":
+      {
+        "cheltuieliDePersonal": 191.03,
+        "asistentaSociala": 46.02,
+        "bunuriSiServicii": 500.61,
+        "cheltuieliDeCapital": 150.44,
+        "dobanzi": 9.99,
+        "rambursariDeCredite": 45.85,
+        "transferuriCurente": 0.19,
+        "transferuriInterne": 17.5,
+        "proiecteCuFinantareDinFEN": 0.73,
+        "platiEfectuateSiRecuperate": -3.46,
+        "alteCheltuieli": 51.2
+      }
+    }
+  }
+}
