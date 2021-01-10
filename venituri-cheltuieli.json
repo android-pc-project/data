@@ -25,7 +25,7 @@
         "locuinteSiDezvoltarePublica": 48.6,
         "protectiaMediului": 190.22,
         "transporturi": 7.1,
-        "alteCheltuieli": 107.5
+        "alteCheltuieliFunctionale": 107.5
       },
       "cheltuieliEconomice":
       {
@@ -39,7 +39,7 @@
         "transferuriInterne": 17.5,
         "proiecteCuFinantareDinFEN": 0.73,
         "platiEfectuateSiRecuperate": -3.46,
-        "alteCheltuieli": 51.2
+        "alteCheltuieliEconomice": 51.2
       }
     }
   }
